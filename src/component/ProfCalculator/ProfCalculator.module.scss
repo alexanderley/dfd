@@ -1,0 +1,40 @@
+.profCalculatorPage {
+  max-width: 1200px;
+  margin: 0 auto;
+
+  .formLabel {
+    color: grey;
+    font-weight: medium;
+  }
+
+  .formGroup {
+    display: flex;
+    flex-direction: column;
+
+    .formInput,
+    select {
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      margin-top: 5px;
+      margin-bottom: 8px;
+    }
+  }
+
+  .submitButton {
+    background-color: white;
+    border: 1px solid orange;
+    color: orange;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+
+    &:hover {
+      border: 1px solid rgb(255, 89, 0);
+      color: rgb(255, 89, 0);
+    }
+  }
+}
