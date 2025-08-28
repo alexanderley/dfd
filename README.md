@@ -1,6 +1,6 @@
-# Mieterstrom Profitablility
+# Mieterstrom Profitablility calculator
 
-This is smalle application to calculate the Mieterstrom Profitablility
+This is small application to calculate the Mieterstrom Profitablility
 
 ## Technolgies
 
