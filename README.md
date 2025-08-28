@@ -1,4 +1,4 @@
-# Mieterstrom Profitablility calculator
+# Mieterstrom Profitablility Calculator
 
 This is small application to calculate the Mieterstrom Profitablility
 
